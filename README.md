@@ -2,13 +2,20 @@
 Download steam on school pc
 
 Go to:
+
 https://store.steampowered.com/about/
+
 Download the newest steam version
 
+
 Download the "steamDownloader.bat" file
+
 Create a folder inside downloads called "Ny"
+
 Create a new folder called "Steam" inside "Ny"
+
 Put the "steamsetup.exe" file and "steamDownloader.bat" into the "Ny" folder
+
 click on steamDownloader.bat file inside "Ny" and download the steam file into the "Steam" folder inside the "Ny" folder
 
 
