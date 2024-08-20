@@ -5,9 +5,11 @@ Go to:
 https://store.steampowered.com/about/
 Download the newest steam version
 
-Download the "Ny" folder
-Put the steamsetup.exe file into the "Ny" folder
-open steamDownloader.bat file insite "Ny" and download the steam file into the Steam folder inside the "Ny" folder
+Download the "steamDownloader.bat" file
+Create a folder inside downloads called "Ny"
+Create a new folder called "Steam" inside "Ny"
+Put the "steamsetup.exe" file and "steamDownloader.bat" into the "Ny" folder
+click on steamDownloader.bat file inside "Ny" and download the steam file into the "Steam" folder inside the "Ny" folder
 
 
 When you open Steam each time you have to click "ignore" and "not now" when you get errors
