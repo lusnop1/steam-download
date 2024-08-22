@@ -8,9 +8,9 @@ https://store.steampowered.com/about/
 Download the newest steam version
 
 
-Download the "steamDownloader.bat" file
+Download the "steamDownloader.bat" file (you may have to copy the text and create a .bat file yourself)
 
-Create a folder inside downloads called "Ny"
+Create a folder inside C:\ called "Ny"
 
 Create a new folder called "Steam" inside "Ny"
 
